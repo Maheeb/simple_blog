@@ -1,0 +1,32 @@
+
+.card-header p {
+    margin-bottom: 92px;
+    color: rebeccapurple;
+}
+
+.pg ul {
+    /* text-align: center; */
+    /*margin-top: 9px;*/
+    /*list-style: none;*/
+    /*!* width: -13px; *!*/
+    /*margin-left: 378px;*/
+}
+.pg ul li {
+
+    list-style: none;
+
+    float: left;
+
+    display: block;
+    width: 28px;
+
+}
+.cbox{}
+.cbox .form-group{
+
+
+}
+
+.comment-footer {
+
+}
